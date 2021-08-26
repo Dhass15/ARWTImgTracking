@@ -5,7 +5,7 @@
 "dataUrl": "InscreradedSpeedMarker3.data.unityweb",
 "wasmCodeUrl": "InscreradedSpeedMarker3.wasm.code.unityweb",
 "wasmFrameworkUrl": "InscreradedSpeedMarker3.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 
